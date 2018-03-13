@@ -17,4 +17,5 @@ G = function G (for example "sin(x)")
 usage example
 
 CI(2, -10, 10, 0.1, "x+2.*sin(2.*x)", "x")
+
 CI(1, -10, 10, 0.1, "cos(x).^3" ,"sin(x).^3")
